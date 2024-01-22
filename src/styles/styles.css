@@ -1,0 +1,8 @@
+body {
+  font-family: monospace !important;
+}
+
+.myComponent {
+  background-color: #f0f0f0;
+  padding: 10px;
+}

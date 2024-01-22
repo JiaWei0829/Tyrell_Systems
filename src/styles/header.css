@@ -1,0 +1,71 @@
+/* Header.css */
+
+.header-container {
+  background-color: #fffbfb;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: larger;
+  font-weight: 600;
+}
+
+.logo {
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+  font-family: 'Verdana', sans-serif; /* Change to your preferred font family */
+}
+
+.nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav-item {
+  margin-right: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Tahoma', sans-serif; /* Change to your preferred font family */
+}
+
+.nav-link:hover {
+  color: #ff3366;
+}
+
+.search-box {
+  margin-left: auto;
+}
+
+.search-input {
+  padding: 10px;
+  font-size: 18px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 10px;
+  font-family: 'Arial', sans-serif; /* Change to your preferred font family */
+}
+
+.search-btn {
+  padding: 10px 14px;
+  font-size: 18px;
+  background-color: #ff3366;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: 'Tahoma', sans-serif; /* Change to your preferred font family */
+}
+
+.search-btn:hover {
+  background-color: #e6005c;
+}
