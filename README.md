@@ -12,7 +12,7 @@ This is a simple card distribution program written in PHP for the backend and Re
 
 2. Clone the repository:
 
-3. Navigate to the backend directory "cd your_file/Tyrell_Systems/public"
+3. Navigate to cloned file directory "cd your_file/Tyrell_Systems/public"
 
 4. Start the PHP server:
 php -S localhost:8000
